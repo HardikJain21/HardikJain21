@@ -22,7 +22,7 @@ class HardikJain:
         self.name = "Hardik Jain"
         self.role = "AI/ML Engineer & Full Stack Developer"
         self.education = "B.Tech CS @ Bennett University"
-        self.cgpa = "9.75 (Dean's List Achiever)"
+        self.cgpa = "9.22 (Dean's List Achiever)"
         self.location = "Greater Noida, India"
         
     def get_current_focus(self):
